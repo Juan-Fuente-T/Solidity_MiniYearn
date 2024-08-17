@@ -24,9 +24,9 @@ Este es un contrato inteligente en Solidity llamado MiniYearn que interactúa co
 
 ## Despliegue
 
-1. Despliega el contrato en un entorno de desarrollo de Ethereum compatible (por ejemplo, Remix IDE). Aconsejable usarlo en una testnet, en donde esté presente AAVE, como por ejemplo Sepolia. 
- Necesitarás las direcciones del Gateway, de la pool y del aEth Token
-2. Proporciona la dirección del contrato a los usuarios que deseen interactuar con él.
+1. Despliega el contrato en un entorno de desarrollo de Ethereum compatible (por ejemplo, Remix IDE). Aconsejable usarlo en una testnet, en donde esté presente AAVE, como por ejemplo Sepolia.
+   Necesitarás las direcciones del Gateway, de la pool y del aEth Token
+2. Proporciona la dirección del contrato a los usuarios que deseen interactuar con él. O puedes crear un frontend que les permita usarlo con comodidad.
 
 ## Uso
 
